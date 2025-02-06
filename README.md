@@ -1,4 +1,4 @@
-Today is a Sunny Day.  
+Today is a rainy Day.  
 
 It's a beautiful day! 
 
